@@ -1,0 +1,16 @@
+true,MELEE,PlayerMelee,4,true,false,false,3,8,PlayerDeath,PlayerMeleeExplosion,PlayerDying,PlayerDyingDead
+true,GUN,PlayerGun,4,true,false,false,3,8,PlayerDeath,PlayerGunExplosion,PlayerDying,PlayerDyingDead
+true,SHOTGUN,PlayerShotgun,4,true,false,false,3,8,PlayerDeath,PlayerShotgunExplosion,PlayerDying,PlayerDyingDead
+true,MACHINEGUN,PlayerMachinegun,4,true,false,false,3,8,PlayerDeath,PlayerMachinegunExplosion,PlayerDying,PlayerDyingDead
+true,PLASMAGUN,PlayerPlasmagun,4,true,false,false,3,8,PlayerDeath,PlayerDeath,PlayerPlasmagunExplosion,PlayerDying,PlayerDyingDead
+true,ROCKETLAUNCHER,PlayerRocketLauncher,4,true,false,false,3,8,PlayerDeath,PlayerRocketLauncherExplosion,PlayerDying,PlayerDyingDead
+false,null,Zombieman,4,true,false,false,3,9,ZombiemanDeath,ZombiemanExplosion,ZombiemanDying,ZombiemanDyingDead
+false,null,Shotgunguy,4,true,false,false,3,8,ShotgunguyDeath,ShotgunguyExplosion,ShotgunguyDying,ShotgunguyDyingDead
+false,null,Chaingunner,4,true,false,false,2,9,ChaingunnerDeath,ChaingunnerExplosion,ChaingunnerDying,ChaingunnerDyingDead
+false,null,Imp,4,false,true,true,2,9,ImpDeath,ImpExplosion,ImpDying,ImpDyingDead
+false,null,HellKnight,2,false,true,true,2,2,HellKnightDeath,null,HellKnightDying,HellKnightDyingDead
+false,null,Baron,4,false,true,true,2,3,BaronDeath,null,BaronDying,BaronDyingDead
+false,null,Arachnotron,6,true,false,false,1,3,ArachnotronDeath,null,ArachnotronDying,ArachnotronDyingDead
+false,null,CyberDemon,4,true,false,false,4,1,CyberDemonDeath,null,null,null
+false,null,Mancubus,6,true,false,false,2,6,MancubusDeath,null,null,null
+false,null,Demon,4,false,false,true,1,8,DemonDeath,null,null,null

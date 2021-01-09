@@ -1,0 +1,12 @@
+Armor
+Bull
+Bulld
+Cell
+Celld
+Clip
+Health
+Rock
+Rockd
+Shel
+Sheld
+Arms

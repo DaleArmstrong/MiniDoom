@@ -1,0 +1,7 @@
+Imp,Melee,0.08,3
+Imp,Ranged,0.08,3
+HellKnight,Melee,0.08,3
+HellKnight,Ranged,0.08,3
+Baron,Melee,0.08,3
+Baron,Ranged,0.08,3
+Demon,Melee,0.08,3

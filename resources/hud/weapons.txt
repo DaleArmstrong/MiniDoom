@@ -1,0 +1,6 @@
+MELEE	Fist
+GUN	Gun
+SHOTGUN	Shotgun
+MACHINEGUN	MachineGun
+PLASMAGUN	PlasmaGun
+ROCKETLAUNCHER	RocketLauncher
